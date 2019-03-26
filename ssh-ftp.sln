@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssh-ftp", "ssh-ftp\ssh-ftp.csproj", "{7100722F-7B94-4995-B2EB-93F5D35F73DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7100722F-7B94-4995-B2EB-93F5D35F73DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7100722F-7B94-4995-B2EB-93F5D35F73DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7100722F-7B94-4995-B2EB-93F5D35F73DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7100722F-7B94-4995-B2EB-93F5D35F73DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E246657-8CFD-4A38-BD06-8E96864A6AAA}
+	EndGlobalSection
+EndGlobal

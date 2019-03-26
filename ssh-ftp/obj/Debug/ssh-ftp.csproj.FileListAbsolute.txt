@@ -1,0 +1,13 @@
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\bin\Debug\ssh-ftp.exe.config
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\bin\Debug\ssh-ftp.exe
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\bin\Debug\ssh-ftp.pdb
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\bin\Debug\Renci.SshNet.dll
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\bin\Debug\Renci.SshNet.xml
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh-ftp.csprojAssemblyReference.cache
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh_ftp.Form1.resources
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh_ftp.Properties.Resources.resources
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh-ftp.csproj.GenerateResource.cache
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh-ftp.csproj.CoreCompileInputs.cache
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh-ftp.csproj.CopyComplete
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh-ftp.exe
+D:\CABILI_JC\researchanddevelopment\ssh-ftp\ssh-ftp\ssh-ftp\obj\Debug\ssh-ftp.pdb
