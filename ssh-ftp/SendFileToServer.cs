@@ -14,7 +14,7 @@ namespace ssh_ftp
         // Enter your sftp username here
         private static string username = "allcard";
         // Enter your sftp password here
-        private static string password = "AllcardTech2k15$pi";
+        private static string password = "[Your password]";
 
 
 
